@@ -6,7 +6,7 @@
     }
   },
   "run_list" : [
-    "recipe[apache]",
-    "recipe[apache::vhosts]"
+    "recipe[apache1]",
+    "recipe[apache1::vhosts]"
   ]
 }

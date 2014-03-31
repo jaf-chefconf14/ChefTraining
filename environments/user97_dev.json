@@ -1,0 +1,7 @@
+{
+  "name": "user97_dev",
+  "description": "For developers!",
+  "cookbook_versions": {
+    "userid_apache": "= 0.2.0"
+    }
+  }
